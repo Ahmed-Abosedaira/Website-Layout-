@@ -73,11 +73,10 @@
     background-color: var(--background-dark);
   }
   @media screen and (max-width:700px) {
-    .dark-mode-button{
-      border-radius: 3em 0 3em 0;
-      bottom: 0;
-      right: 0;
-    }
+     .dark-mode-button{
+    	bottom: 0;
+	border-radius: 3em 0 3em 0;
+     }
   }
   /* dark mode ends  */
   /* header starts */
