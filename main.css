@@ -74,7 +74,7 @@
   }
   @media screen and (max-width:700px) {
      .dark-mode-button{
-    	bottom: 0;
+    	top: calc(100% - 5.01rem);
 	border-radius: 3em 0 3em 0;
      }
   }
